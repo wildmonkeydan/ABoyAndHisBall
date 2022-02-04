@@ -1,4 +1,0 @@
-C:/psnoobsdk/projects/PSXTests/build/CMakeFiles/template.dir
-C:/psnoobsdk/projects/PSXTests/build/CMakeFiles/iso.dir
-C:/psnoobsdk/projects/PSXTests/build/CMakeFiles/edit_cache.dir
-C:/psnoobsdk/projects/PSXTests/build/CMakeFiles/rebuild_cache.dir
