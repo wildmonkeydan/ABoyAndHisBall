@@ -23,10 +23,10 @@
 
 		<directory_tree>
 			<file name="SYSTEM.CNF"		type="data" source="${PROJECT_SOURCE_DIR}/system.cnf" />
-			<file name="TEMPLATE.EXE"	type="data" source="template.exe" />
-			<file name="TEMPLATE.MAP"	type="data" source="template.map" />
-			<file name="Q.TIM"		type="data" source="TILE1.tim" />
-			<file name="LVL.BAL"		type="data" source="level.bal" />
+			<file name="TEMPLATE.EXE"	type="data" source="${PROJECT_SOURCE_DIR}/template.exe" />
+			<file name="TEMPLATE.MAP"	type="data" source="${PROJECT_SOURCE_DIR}/template.map" />
+			<file name="Q.TIM" 		type="data" source="${PROJECT_SOURCE_DIR}/TILE1.tim" />
+			<file name="LVL.BAL" 		type="data" source="${PROJECT_SOURCE_DIR}/level.bal" />
 			<dummy sectors="1024"/>
 		</directory_tree>
 	</track>
